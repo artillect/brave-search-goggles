@@ -1,0 +1,8 @@
+! name: Indie Wiki Filter
+! description: Filters out search results from wiki sites like Fandom and promotes results from independent wikis
+! public: false
+! author: artillect
+
+terraria.wiki.gg
+
+fandom.com$discard
